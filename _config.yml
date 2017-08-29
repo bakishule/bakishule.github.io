@@ -25,7 +25,7 @@ author:
   picture: /assets/images/profile.jpg
 twitter_username: Nakadori
 github_username: neylicious
-logo: /assets/icons/basically-basic-logo-light.svg
+logo: /assets/icons/basically-basic-logo-light.png
 
 # Build settings
 markdown: kramdown
