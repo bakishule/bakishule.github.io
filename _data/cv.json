@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "Neema Mduma",
+    "label": "PhD scholar (NM-AIST)",
+    "picture": "",
+    "email": "mdumaneema22@gmail.com",
+    "phone": "(+255) 713702661",
+    "website": "https://neylicious.github.io",
+    "summary": "A client focused and
+knowledge-oriented individual who enjoys challenges, currently seeking a dynamic position with a forward-
+thinking organization which can offer a room to grow and good opportunities for development and career
+progression.",
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "nakadori",
+        "url": "https://twitter.com/nakadori"
+      },
+      {
+        "network": "Facebook",
+        "username": "mdumaneema",
+        "url": "https://facebook.com/mdumaneema"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "University of Iringa Formerly Tumaini University Iringa.",
+      "position": "Assistant Lecturer",
+      "website": "",
+      "startDate": "2016",
+      "endDate": "Up-to-date",
+      "summary": ""
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Pythontz",
+      "position": "Communication Officer",
+      "website": "https://pythontz.github.io",
+      "startDate": "2017",
+      "endDate": "Up-to-date",
+      "summary": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "The Nelson Mandela African Institution of Science and Technology",
+      "area": "Information and Communication Science and Engineering",
+      "studyType": "Masters",
+      "startDate": "2014",
+      "endDate": "2016",
+      "courses": 
+    }
+  ],
+ 
+  "skills": [
+    {
+      "name": "Entrepreneur and leadership skills.",
+      "level": "",
+      "keywords":
+    },
+    {
+      "name": "Project planning and management.",
+      "level": ,
+      "keywords": 
+    }
+  ],
+  "languages": [
+    {
+      "language": "English and Swahili",
+      "fluency": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Applied machine learning and  ICT4D ",
+      "keywords": 
+    }
+  ],
+  "references": [
+    {
+      "name": " Anthony Faustine",
+      "reference": "It is my pleasure to recommend Neema, her performance working as a communication officer at pythontz  proved that she will be a valuable addition to any company."
+    }
+  ]
+}
