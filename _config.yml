@@ -27,6 +27,8 @@ twitter_username: Nakadori
 github_username: neylicious
 logo: /assets/icons/basically-basic-logo-light.png
 
+
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-basically-basic
