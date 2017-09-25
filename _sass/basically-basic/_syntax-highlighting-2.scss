@@ -1,62 +1,11 @@
-/* ==========================================================================
-   Syntax highlighting
-   ========================================================================== */
-
+/**
+ * Syntax highlighting styles
+ */
 .highlight {
-  padding: 1em;
-  background-color: $code-background-color;
+    background: #fff;
+    @extend %vertical-rhythm;
 
-  pre {
-    width: 100%;
-    margin: 0;
-  }
-
-  table {
-    margin: 0;
-    border: 0;
-    font-size: 1em;
-
-    tr {
-      border: 0;
-    }
-
-    td {
-      padding: 5px;
-      border: 0;
-
-      /* line numbers gutter */
-      &.gutter {
-        padding-right: 1rem;
-      }
-    }
-
-    pre {
-      margin: 0;
-    }
-  }
-
-  /* line numbers */
-  .lineno {
-    color: tint($base-color, 50%);
-  }
-
-  /*
-     Solarized Light
-     http://ethanschoonover.com/solarized
-
-     SOLARIZED HEX      ROLE
-     --------- -------- ------------------------------------------
-     base01    #586e75  body text / default code / primary content
-     base1     #93a1a1  comments / secondary content
-     base3     #fdf6e3  background
-     orange    #cb4b16  constants
-     red       #dc322f  regex, special keywords
-     blue      #22b3eb  reserved keywords
-     cyan      #2aa198  strings, numbers
-     green     #859900  operators, other keywords
-     ========================================================================== */
-
- .c     { color: #998; font-style: italic } // Comment
+    .c     { color: #998; font-style: italic } // Comment
     .err   { color: #a61717; background-color: #e3d2d2 } // Error
     .k     { font-weight: bold } // Keyword
     .o     { font-weight: bold } // Operator
