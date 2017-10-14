@@ -29,6 +29,8 @@ logo: /assets/icons/basically-basic-logo-light.png
 
 
 
+disqus:
+    shortname: neylicious
 # Build settings
 markdown: kramdown
 
