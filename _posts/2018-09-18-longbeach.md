@@ -8,10 +8,10 @@ tags:
 
 <img src="/assets/images/me.jpg" class="align-center" alt="">
 On December 2017, I had an opportunity to attend three workshops, which were held at Long Beach, California (USA). 
-The first workshop was [Women in Machine Learning] (http://wimlworkshop.org/2017/). In this workshop, I was able to present our 
+The first workshop was [Women in Machine Learning](http://wimlworkshop.org/2017/). In this workshop, I was able to present our 
 poster titled “Reducing Students Dropout Rates: A Machine Learning Approach”. 
-The second workshop was [Neural Information Processing Systems] (https://nips.cc/Conferences/2017). 
-In this workshop, I learnt a lot of useful topics from various presenters in the field of Machine Learning and Artificial Intelligence. The last workshop was [Black in AI] (https://blackinai.github.io). This workshop aimed on providing rooms for sharing ideas and discussions in order to increase the presence of Black people in the field of Artificial Intelligence (AI).
+The second workshop was [Neural Information Processing Systems](https://nips.cc/Conferences/2017). 
+In this workshop, I learnt a lot of useful topics from various presenters in the field of Machine Learning and Artificial Intelligence. The last workshop was [Black in AI](https://blackinai.github.io). This workshop aimed on providing rooms for sharing ideas and discussions in order to increase the presence of Black people in the field of Artificial Intelligence (AI).
 
 
 <img src="/assets/images/hanna.jpg" class="align-center" alt="">
