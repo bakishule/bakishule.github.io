@@ -7,7 +7,7 @@ tags:
 ---
 
 <img src="/assets/images/me.jpg" class="align-center" alt="">
-On December 2017, I had an opportunity to attend three workshops, which were held in Long Beach, California (USA). 
+In December 2017, I had an opportunity to attend three workshops, which were held in Long Beach, California (USA). 
 The first workshop was [Women in Machine Learning](http://wimlworkshop.org/2017/). I presented my
 poster titled “Reducing Students Dropout Rates: A Machine Learning Approach”.
 
