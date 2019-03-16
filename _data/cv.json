@@ -24,11 +24,20 @@ progression.",
   },
   "work": [
     {
+      "company": "The Nelson Mandela African Institution of Science and Technology.",
+      "position": "Assistant Lecturer",
+      "website": "https://www.nm-aist.ac.tz",
+      "startDate": "2018",
+      "endDate": "Up-to-date",
+      "summary": ""
+    },
+    
+    {
       "company": "University of Iringa Formerly Tumaini University Iringa.",
       "position": "Assistant Lecturer",
       "website": "",
       "startDate": "2016",
-      "endDate": "Up-to-date",
+      "endDate": "2017",
       "summary": ""
     }
   ],
@@ -38,7 +47,7 @@ progression.",
       "position": "Communication Officer",
       "website": "https://pythontz.github.io",
       "startDate": "2017",
-      "endDate": "Up-to-date",
+      "endDate": "2018",
       "summary": ""
     }
   ],
