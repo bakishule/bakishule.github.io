@@ -3,8 +3,11 @@ title: "Projects"
 layout: page
 ---
 
-* **Data for Local Impact (DLI)**
-   * Student Dropout Prediction.
+* **Data for Local Impact Innovation Challenge (DLIIC) - 2018**
+   * School Dropout Visualization Tool.
+
+* **Data for Local Impact Innovation Challenge (DLIIC) - 2017**
+   * Student Dropout Prediction Tool.
 
 
 * **Machine learning approach for secondary school dropout prediction**
