@@ -2,7 +2,7 @@
 title: "Publications"
 layout: page
 ---
-* Machine Learning Approach for Reducing Students Dropout Rates. International Journal of Advanced Computer Research. 2019; 9 (42): 156-169. DOI:10.19101/IJACR.2018.839045.(Co-authored with Khamisi Kalegele and Dina Machuve)
+* Machine Learning Approach for Reducing Students Dropout Rates. International Journal of Advanced Computer Research. 2019; 9 (42): 156-169. DOI:10.19101/IJACR.2018.839045. (Co-authored with Khamisi Kalegele and Dina Machuve)
 
 * A Survey of Machine Learning Approaches and Techniques for Student Dropout Prediction. Data Science Journal, 8: 14, pp. 1–10. DOI: https://doi.org/10.5334/dsj-2019-014. (Co-authored with Khamisi Kalegele and Dina Machuve)
  
