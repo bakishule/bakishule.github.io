@@ -15,4 +15,4 @@ I had a fruitful week in Vancouver, not to mention exploring the beautiful place
 
 I encourage others especially ladies to keep up the spirit and respond to different calls tirelessly. 
 
-My trip was fully sponsored by Black in AI.
+My trip was fully sponsored by [Black in AI (BAI)](https://blackinai.github.io).
