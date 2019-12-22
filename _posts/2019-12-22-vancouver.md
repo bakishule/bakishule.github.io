@@ -5,7 +5,7 @@ categories:
 tags:
   - events
 ---
-In December 2019, I had an opportunity to attend the 33rd annual conference on [Neural Information Processing Systems (NeurIPS] (https://nips.cc) in Vancouver, Canada. The conference brought together researchers and experts in the field of Artificial Intelligence (AI) and Machine Learning (ML) from around the world to present and showcase their work through posters, panel discussion and presentations. I also had a privilege to participate in the [Black in AI (BAI)] workshop (https://blackinai.github.io) which aims at increasing the presence and participation of black people in the field of AI. This time around, I did an oral presentation on “An Ensemble Predictive Model Based Prototype for Student Drop-out in Secondary Schools”. 
+In December 2019, I had an opportunity to attend the 33rd annual conference on [Neural Information Processing Systems (NeurIPS)](https://nips.cc) in Vancouver, Canada. The conference brought together researchers and experts in the field of Artificial Intelligence (AI) and Machine Learning (ML) from around the world to present and showcase their work through posters, panel discussion and presentations. I also had a privilege to participate in the [Black in AI (BAI)](https://blackinai.github.io) workshop which aims at increasing the presence and participation of black people in the field of AI. This time around, I did an oral presentation on “An Ensemble Predictive Model Based Prototype for Student Drop-out in Secondary Schools”. 
 
 <img src="/assets/images/NEF.jpg" class="align-center" alt="">  
 
