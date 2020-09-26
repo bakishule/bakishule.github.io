@@ -2,6 +2,8 @@
 title: "Projects"
 layout: page
 ---
+* **IndabaX-AI4D Innovation Grants - 2020**
+   * Development Of Machine Learning Dataset For Poultry Diseases Diagnostics.
 
 * **Data for Local Impact Innovation Challenge (DLIIC) - 2019**
    * LisheYetu.
