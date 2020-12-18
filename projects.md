@@ -9,7 +9,7 @@ layout: page
    * BakiShule.
 
 * **IndabaX-AI4D Innovation Grants - 2020**
-   * Development Of Machine Learning Dataset For Poultry Diseases Diagnostics.
+   * Development of Machine Learning Dataset for Poultry Diseases Diagnostics.
 
 * **Data for Local Impact Innovation Challenge (DLIIC) - 2019**
    * LisheYetu.
