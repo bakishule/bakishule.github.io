@@ -18,7 +18,7 @@ title: BakiShule
 email: mduman@nm-aist.ac.tz
 description: ""
 baseurl: ""  # the subpath of your site, e.g. /blog
-url: "https://bakishule.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://neylicious.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
 author:
   name: Neema
   twitter: Nakadori
@@ -30,7 +30,7 @@ logo: /assets/icons/bakishule.png
 
 
 disqus:
-    shortname: neylicious
+    shortname: bakishule
 # Build settings
 markdown: kramdown
 
