@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Neylicious
+title: BakiShule
 email: mduman@nm-aist.ac.tz
 description: ""
 baseurl: ""  # the subpath of your site, e.g. /blog
@@ -25,7 +25,7 @@ author:
   picture: /assets/images/profile.jpg
 twitter_username: Nakadori
 github_username: neylicious
-logo: /assets/icons/basically-basic-logo-light.png
+logo: /assets/icons/bakishule.png
 
 
 
