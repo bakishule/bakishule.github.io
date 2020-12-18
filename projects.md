@@ -5,7 +5,7 @@ layout: page
 * **Lacuna Fund: Labeled Datasets for Agriculture in Sub-Saharan Africa - 2020**
    * Machine Learning Datasets for Crop Diseases: Imagery and Spectrometry Data.
 
-* **L’Oréal-UNESCO Young Talents Award winner for Sub-Saharan Africa - 2020**
+* **L’Oréal-UNESCO Young Talents Award Winner for Sub-Saharan Africa - 2020**
    * BakiShule.
 
 * **IndabaX-AI4D Innovation Grants - 2020**
