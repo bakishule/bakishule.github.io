@@ -19,7 +19,7 @@ The following day (12th February 2021), I visited Kisarawe district in Pwani reg
 
 My participation in the International Day of Women and Girls in Science enabled me to connect and form networks with officials from public and private sectors, scientists, students etc. As the laurate of the L'Oréal-UNESCO, I also had a chance to talk about how the L'Oréal-UNESCO for Women in Science Programme promotes and recognizes women researchers who are addressing today's global challenges. 
 
-<img src="/assets/images/dar3.jpeg" class="align-center" alt="">
+<img src="/assets/images/dar3.JPG" class="align-center" alt="">
 
 I would like to appreciate the L'Oréal-UNESCO foundation and UNESCO NatCom for facilitating my trip and stay in Dar es Salaam. 
 
