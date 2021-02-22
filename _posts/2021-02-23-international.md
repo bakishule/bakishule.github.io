@@ -9,7 +9,7 @@ On 11th February 2021, I was privileged to attend the event of celebrating Inter
 
 <img src="/assets/images/dar1.png" class="align-center" alt="">  
 
-As an awardee of L'Oréal-UNESCO for women in Science Young Talents in Sub-Saharan Africa (2020), I had an opportunity to participate in a moderated discussion session on, “Tapping into the potential of women in STEM towards vision 2025 and SDGs 2030.” Afterwards, I was given an opportunity to share my educational journey to the students. My story inspired them and many realized that dreams are valid regardless your gender, background etc as long as you are focused and work hard to attain them. 
+As an awardee of L'Oréal-UNESCO For Women in Science Young Talents in Sub-Saharan Africa (2020, I had an opportunity to participate in a moderated discussion session on, “Tapping into the potential of women in STEM towards vision 2025 and SDGs 2030.” Afterwards, I was given an opportunity to share my educational journey to the students. My story inspired them and many realized that dreams are valid regardless your gender, background etc as long as you are focused and work hard to attain them. 
 
 <img src="/assets/images/dar2.jpeg" class="align-center" alt="">  
 
@@ -17,8 +17,8 @@ The following day (12th February 2021), I visited Kisarawe district in Pwani reg
 
 <img src="/assets/images/kisarawe.jpeg" class="align-center" alt=""> 
 
-My participation in the International Day of Women and Girls in Science enabled me to connect and form networks with officials from public and private sectors, scientists, students etc. As the laurate of the L'Oréal-UNESCO, I also had a chance to talk about how the L'Oréal-UNESCO for Women in Science Programme promotes and recognizes women researchers who are addressing today's global challenges. 
+My participation in the International Day of Women and Girls in Science enabled me to connect and form networks with officials from public and private sectors, scientists, students etc. As a L'Oréal-UNESCO Young Talent, I also had a chance to talk about how the L'Oréal-UNESCO For Women in Science Programme promotes and recognizes women researchers who are addressing today's global challenges. 
 
 <img src="/assets/images/dar3.JPG" class="align-center" alt="">
 
-I would like to appreciate the L'Oréal-UNESCO foundation and UNESCO NatCom for facilitating my trip and stay in Dar es Salaam. 
+I would like to appreciate UNESCO, the Fondation L'Oréal and UNESCO National Commission for facilitating my trip and stay in Dar es Salaam. 
