@@ -4,7 +4,7 @@ layout: page
 ---
 [Neema Mduma on ResearchGate](https://www.researchgate.net/profile/Neema_Mduma)
 
-* Development of a Smart Ugali Cooker. International Journal of Advanced Technology and Engineering Exploration, 8(75). DOI:http://dx.doi.org/10.19101/IJATEE.2020.762148. (Co-authored with Samwel Katwale, Ngollo Daudi, Amrani Hassan, Neema Mduma, Musa Ally and Michael Kisangiri)
+* Development of a Smart Ugali Cooker. International Journal of Advanced Technology and Engineering Exploration, 8(75). DOI:http://dx.doi.org/10.19101/IJATEE.2020.762148. (Co-authored with Samwel Katwale, Ngollo Daudi, Amrani Hassan, Musa Ally and Michael Kisangiri)
 
 * An Ensemble Predictive Model Based Prototype for Student Drop-out in Secondary Schools. Journal of Information Systems Engineering & Management, 4(3), em0094. DOI:https://doi.org/10.29333/jisem/5893. (Co-authored with Khamisi Kalegele and Dina Machuve)
 
