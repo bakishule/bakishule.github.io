@@ -2,6 +2,12 @@
 title: "Projects"
 layout: page
 ---
+* **Data Science Africa Research Assistant Grant - 2021**
+   * Deep Learning Techniques for Early Detection of Crop Diseases.
+   
+* **AI4D Post-Doctoral Research Scholarship - 2021**
+   * Deep Learning Techniques for Early Detection of Crop Diseases.
+   
 * **Lacuna Fund: Labeled Datasets for Agriculture in Sub-Saharan Africa - 2020**
    * Machine Learning Datasets for Crop Diseases: Imagery and Spectrometry Data.
 
