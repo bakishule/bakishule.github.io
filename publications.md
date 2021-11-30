@@ -4,6 +4,12 @@ layout: page
 ---
 [Neema Mduma on ResearchGate](https://www.researchgate.net/profile/Neema_Mduma)
 
+* Automatic Railway Road Crossing (RLC) Traffic Light System for Metric Gauge Railway Network in Tanzania. International Journal of Advances in Scientific Research and Engineering (IJASRE), Volume 7 (11).  DOI: 10.31695/IJASRE.2021.34099 (Co-authored with Libere Nkunzimana, Gilbert Minja, Christina Mariki, Innocent Zirakwiye and Mussa Ally Dida)
+
+* A Battery Voltage Level Monitoring System for Telecommunication Towers. Engineering, Technology & Applied Science Research, Vol. 11, No. 6, 2021, 7875-7880.  https://doi.org/10.48084/etasr.4550 (Co-authored with Rahab Uwamahoro and Dina Machuve)
+
+* Machine Learning Model for Predicting Student Dropout: A Case of Tanzania, Kenya and Uganda. 2021 IEEE AFRICON, 2021, pp. 1-6, doi: 10.1109/AFRICON51333.2021.9570956. (Co-authored with Dina Machuve)
+
 * Document Digitization Technology and Its Application in Tanzania. In: Arai K. (eds) Intelligent Systems and Applications. IntelliSys 2021. Lecture Notes in Networks and Systems, vol 295. Springer, Cham. https://doi.org/10.1007/978-3-030-82196-8_53. (Co-authored with Mbonimpaye John, Beatus Mbunda, Victor Willa, Dina Machuve and Shubi Kaijage)
 
 *	Web Based Attendance, Leave and Payroll System for Small Scale Industries: A Case of SOSOMA Industries Limited Rwanda. International Journal of Advances in Scientific Research and Engineering (IJASRE), ISSN:2454-8006, 7(7), 56-63. https://doi.org/10.31695/IJASRE.2021.34041. (Co-authored with Olivier Hungurimana and Dina Machuve)
