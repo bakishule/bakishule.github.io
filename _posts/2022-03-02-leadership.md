@@ -13,5 +13,5 @@ The event was organized by 3 institutions of Bugando (Bugando Medical Centre, Ca
 
 <img src="/assets/images/Bugando1.JPG" class="align-center" alt="">
  
-
+ 
  
