@@ -12,3 +12,6 @@ On 03rd March 2022, I was delighted to be among the speakers at the Women in Hea
 The event was organized by 3 institutions of Bugando (Bugando Medical Centre, Catholic University of health and allied Sciences and Mwanza College of Health and Allied sciences) and it was conducted at Malaika Beach Resort, Mwanza.
 
 <img src="/assets/images/Bugando1.JPG" class="align-center" alt="">
+
+source `https://rubygems.org`
+gem `github-pages`
