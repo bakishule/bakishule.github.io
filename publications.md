@@ -4,6 +4,8 @@ layout: page
 ---
 [Neema Mduma on ResearchGate](https://www.researchgate.net/profile/Neema_Mduma)
 
+* Poultry Diseases Diagnostics Models Using Deep Learning. Frontiers in Artificial Intelligence. 5:733345. https://doi.org/10.3389/frai.2022.733345 (Co-authored with Dina Machuve, Ezinne Nwankwo and Jimmy Mbelwa)
+
 * Combining Clinical Symptoms and Patient Features for Malaria Diagnosis: Machine Learning Approach. Applied Artificial Intelligence, 2022, https://doi.org/10.1080/08839514.2022.2031826 (Co-authored with Martina Mariki and Elizabeth Mkoba)
 
 * Automatic Railway Road Crossing (RLC) Traffic Light System for Metric Gauge Railway Network in Tanzania. International Journal of Advances in Scientific Research and Engineering (IJASRE), Volume 7 (11). https://doi.org/10.31695/IJASRE.2021.34099 (Co-authored with Libere Nkunzimana, Gilbert Minja, Christina Mariki, Innocent Zirakwiye and Mussa Ally Dida)
