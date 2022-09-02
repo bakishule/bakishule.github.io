@@ -21,7 +21,7 @@ layout: page
    * Development of Machine Learning Dataset for Poultry Diseases Diagnostics.
 
 * **Data for Local Impact Innovation Challenge (DLIIC) - 2019**
-   * LisheYetu.
+   * Zero Hunger Zero AIDS.
 
 * **Data for Local Impact Innovation Challenge (DLIIC) - 2018**
    * School Dropout Visualization Tool.
