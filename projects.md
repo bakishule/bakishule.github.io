@@ -5,7 +5,7 @@ layout: page
 * **Artificial Intelligence for Development - 2022**
    * Development of Machine Learning Models for Early Detection of Crop Diseases based on Crop Imagery Data.
 
-* **Data Science Africa Research Assistant Grant - 2021**
+* **Data Science Africa Research Assistant Program - 2021**
    * Deep Learning Techniques for Early Detection of Crop Diseases.
    
 * **AI4D Post-Doctoral Research Scholarship - 2021**
