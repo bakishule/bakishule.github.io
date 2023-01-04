@@ -2,7 +2,10 @@
 title: "Projects"
 layout: page
 ---
-* **Artificial Intelligence for Development - 2022**
+* **Organization for Women in Science for the Developing World (OWSD) - 2023**
+   * Deep Learning Tools for Early Detection of Diseases Affecting Common Bean and Irish Potato in the Southern Highlands Regions of Tanzania.
+
+* **Artificial Intelligence for Agriculture and Food Systems - 2022**
    * Development of Machine Learning Models for Early Detection of Crop Diseases based on Crop Imagery Data.
 
 * **Data Science Africa Research Assistant Program - 2021**
