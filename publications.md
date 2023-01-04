@@ -4,6 +4,8 @@ layout: page
 ---
 [Neema Mduma on ResearchGate](https://www.researchgate.net/profile/Neema_Mduma)
 
+* Characterisation of Malaria Diagnosis Data in High and Low Endemic Areas of Tanzania. East African Health Research Journal. Vol 6 No 2 (2022). https://doi.org/10.24248/eahrj.v6i2.696 (Co-authored with Martina Mariki and Elizabeth Mkoba) 
+
 * Poultry Diseases Diagnostics Models Using Deep Learning. Frontiers in Artificial Intelligence. 5:733345. https://doi.org/10.3389/frai.2022.733345 (Co-authored with Dina Machuve, Ezinne Nwankwo and Jimmy Mbelwa)
 
 * Combining Clinical Symptoms and Patient Features for Malaria Diagnosis: Machine Learning Approach. Applied Artificial Intelligence, 2022, https://doi.org/10.1080/08839514.2022.2031826 (Co-authored with Martina Mariki and Elizabeth Mkoba)
