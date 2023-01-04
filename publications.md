@@ -10,6 +10,8 @@ layout: page
 
 * Combining Clinical Symptoms and Patient Features for Malaria Diagnosis: Machine Learning Approach. Applied Artificial Intelligence, 2022, https://doi.org/10.1080/08839514.2022.2031826 (Co-authored with Martina Mariki and Elizabeth Mkoba)
 
+* IoT based Smart Fan Controller and Fire Prevention in Computer Laboratory. International Journal of Advanced Technology and Engineering Exploration (IJATEE), Volume 9 (94). http://dx.doi.org/10.19101/IJATEE.2021.875573 (Co-authored with Kevin Iriho and Dina Machuve)
+
 * Automatic Railway Road Crossing (RLC) Traffic Light System for Metric Gauge Railway Network in Tanzania. International Journal of Advances in Scientific Research and Engineering (IJASRE), Volume 7 (11). https://doi.org/10.31695/IJASRE.2021.34099 (Co-authored with Libere Nkunzimana, Gilbert Minja, Christina Mariki, Innocent Zirakwiye and Mussa Ally Dida)
 
 * A Battery Voltage Level Monitoring System for Telecommunication Towers. Engineering, Technology & Applied Science Research, Vol. 11, No. 6, 2021, 7875-7880.  https://doi.org/10.48084/etasr.4550 (Co-authored with Rahab Uwamahoro and Dina Machuve)
