@@ -4,6 +4,10 @@ layout: page
 ---
 [Neema Mduma on ResearchGate](https://www.researchgate.net/profile/Neema_Mduma)
 
+* Machine Learning Imagery Dataset for Maize Crop: A Case of Tanzania. Data in Brief, Vol 48 (2023). https://doi.org/10.1016/j.dib.2023.109108 (Co-authored with Hudson Laizer) 
+
+* Data Balancing Techniques for Predicting Student Dropout Using Machine Learning. Data, Vol 8 No 49 (2023). https://doi.org/10.3390/data8030049 
+
 * Characterisation of Malaria Diagnosis Data in High and Low Endemic Areas of Tanzania. East African Health Research Journal. Vol 6 No 2 (2022). https://doi.org/10.24248/eahrj.v6i2.696 (Co-authored with Martina Mariki and Elizabeth Mkoba) 
 
 * Poultry Diseases Diagnostics Models Using Deep Learning. Frontiers in Artificial Intelligence. 5:733345. https://doi.org/10.3389/frai.2022.733345 (Co-authored with Dina Machuve, Ezinne Nwankwo and Jimmy Mbelwa)
