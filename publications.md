@@ -4,6 +4,12 @@ layout: page
 ---
 [Neema Mduma on ResearchGate](https://www.researchgate.net/profile/Neema_Mduma)
 
+* Dataset of Banana Leaves and Stem Images for Object Detection, Classification and Segmentation: A Case of Tanzania. Data in Brief, Vol 49 (2023). https://doi.org/10.1016/j.dib.2023.109322 (Co-authored with Judith Leo) 
+  
+* A Machine Learning Model for Detecting Covid-19 Misinformation in Swahili Language. Engineering, Technology & Applied Science Research, Vol 13 (2023). https://doi.org/10.48084/etasr.5636 (Co-authored with Filbert Mlawa and Elizabeth Mkoba) 
+  
+* A Deep Learning Model for Predicting Stock Prices in Tanzania. Engineering, Technology & Applied Science Research, Vol 13 (2023). https://doi.org/10.48084/etasr.5710 (Co-authored with Samuel Joseph and Devotha Nyambo) 
+
 * Machine Learning Imagery Dataset for Maize Crop: A Case of Tanzania. Data in Brief, Vol 48 (2023). https://doi.org/10.1016/j.dib.2023.109108 (Co-authored with Hudson Laizer) 
 
 * Data Balancing Techniques for Predicting Student Dropout Using Machine Learning. Data, Vol 8 No 49 (2023). https://doi.org/10.3390/data8030049 
