@@ -20,8 +20,8 @@ Grow Further is a non-profit organization with its headquarters in Seattle, USA 
 
 Links:
 
-https://www.thecitizen.co.tz/tanzania/news/national/tanzanian-innovator-among-two-winners-globally-of-an-agricultural-research-grant-4441622
+[The Citizen](https://www.thecitizen.co.tz/tanzania/news/national/tanzanian-innovator-among-two-winners-globally-of-an-agricultural-research-grant-4441622)
 
-https://africa.businessinsider.com/local/lifestyle/dollar63000-granted-to-the-amazing-tanzanian-woman-using-machine-learning-for/z56lkxd
+[Business Insider Africa](https://africa.businessinsider.com/local/lifestyle/dollar63000-granted-to-the-amazing-tanzanian-woman-using-machine-learning-for/z56lkxd)
 
-https://blueprintafric.com/news/tanzanian-woman-granted-63000-for-using-machine-learning-for-agriculture/
+[Blueprint Afric](https://blueprintafric.com/news/tanzanian-woman-granted-63000-for-using-machine-learning-for-agriculture/)
