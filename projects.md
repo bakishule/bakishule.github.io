@@ -2,6 +2,9 @@
 title: "Projects"
 layout: page
 ---
+* **Grow Further - 2023**
+   * Machine Learning Tools for Early Detection of Maize and Common Bean Diseases for Climate Change Adaptation in Tanzania.
+     
 * **Organization for Women in Science for the Developing World (OWSD) - 2023**
    * Deep Learning Tools for Early Detection of Diseases Affecting Common Bean and Irish Potato in the Southern Highlands Regions of Tanzania.
 
