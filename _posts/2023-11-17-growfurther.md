@@ -12,9 +12,11 @@ My team will receive a financial support of USD 63,000 to help develop a mobile 
 
 "We are very impressed with the quality of the applications we have received," said Peter Kelly (CEO of Grow Further). "The two winning projects (Ghana and Tanzania) have the potential to transform smallholder agriculture, improve nutrition, and help beat back food insecurity".
 
+<img src="/assets/images/grow2.jpg" class="align-center" alt="">  
+
 Grow Further is a non-profit organization with its headquarters in Seattle, USA that works to engage farmers, scientists, and individuals in participatory innovation for global food security and sustainable agriculture. The organization provides grants and technical assistance to scientists with innovative ideas to create a food-secure future.
 
-<img src="/assets/images/sti2.jpg" class="align-center" alt="">  
+
 
 Links:
 
