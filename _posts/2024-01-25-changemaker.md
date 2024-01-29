@@ -9,6 +9,6 @@ Humbled and deeply grateful to be recognized among the 100 Tanzanian Change Make
 
 <img src="/assets/images/changemaker.png" class="align-center" alt="">  
 
-Links:
+Link:
 
 [100 Tanzanian Changemakers List](https://drive.google.com/file/d/1RO9_s9kU92HpvsLkdssV33ZCFTiWWmjy/view)
