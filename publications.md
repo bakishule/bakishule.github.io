@@ -4,6 +4,10 @@ layout: page
 ---
 [Neema Mduma on ResearchGate](https://www.researchgate.net/profile/Neema_Mduma)
 
+* Updating “Machine Learning Imagery Dataset for Maize Crop: A case of Tanzania” with Expanded Data to Cover the New Farming Season. Data in Brief, Vol 54(2024). https://doi.org/10.1016/j.dib.2024.110359  (Co-authored with Flavia Mayo)
+  
+* Mobile-Based convolutional neural network model for the early identification of banana diseases. Smart Agricultural Technology, Vol 7 (2024). https://doi.org/10.1016/j.atech.2024.100423 (Co-authored with Christian Elinisa) 
+
 * Dataset of Banana Leaves and Stem Images for Object Detection, Classification and Segmentation: A Case of Tanzania. Data in Brief, Vol 49 (2023). https://doi.org/10.1016/j.dib.2023.109322 (Co-authored with Judith Leo) 
   
 * A Machine Learning Model for Detecting Covid-19 Misinformation in Swahili Language. Engineering, Technology & Applied Science Research, Vol 13 (2023). https://doi.org/10.48084/etasr.5636 (Co-authored with Filbert Mlawa and Elizabeth Mkoba) 
