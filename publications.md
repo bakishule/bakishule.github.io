@@ -6,7 +6,9 @@ layout: page
 
 * Updating “Machine Learning Imagery Dataset for Maize Crop: A case of Tanzania” with Expanded Data to Cover the New Farming Season. Data in Brief, Vol 54(2024). https://doi.org/10.1016/j.dib.2024.110359  (Co-authored with Flavia Mayo)
   
-* Mobile-Based convolutional neural network model for the early identification of banana diseases. Smart Agricultural Technology, Vol 7 (2024). https://doi.org/10.1016/j.atech.2024.100423 (Co-authored with Christian Elinisa) 
+* Mobile-Based convolutional neural network model for the early identification of banana diseases. Smart Agricultural Technology, Vol 7 (2024). https://doi.org/10.1016/j.atech.2024.100423 (Co-authored with Christian Elinisa)
+  
+* Computer Science Education in Selected Countries from Sub-Saharan Africa. ACM Inroads, Vol 15 (2024). https://doi.org/10.1145/3643037 (Co-authored with Engineer Bainomugisha, Karen Bradshaw, Martin Mabeifam Ujakpa, Joyce Nakatumba-Nabende, Lawrence Nderu, Patrick Kihoza and Annette Irungu) 
 
 * Dataset of Banana Leaves and Stem Images for Object Detection, Classification and Segmentation: A Case of Tanzania. Data in Brief, Vol 49 (2023). https://doi.org/10.1016/j.dib.2023.109322 (Co-authored with Judith Leo) 
   
