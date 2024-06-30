@@ -4,6 +4,8 @@ layout: page
 ---
 [Neema Mduma on ResearchGate](https://www.researchgate.net/profile/Neema_Mduma)
 
+* Common Beans Imagery Dataset for Early Detection of Bean Rust and Bean Anthracnose Diseases. Data in Brief, Vol 54(2024). https://doi.org/10.1016/j.dib.2024.110508. (Co-authored with Hudson Laizer, Dina Machuve and Reinfrid Maganga)
+  
 * Updating “Machine Learning Imagery Dataset for Maize Crop: A case of Tanzania” with Expanded Data to Cover the New Farming Season. Data in Brief, Vol 54(2024). https://doi.org/10.1016/j.dib.2024.110359  (Co-authored with Flavia Mayo)
   
 * Mobile-Based convolutional neural network model for the early identification of banana diseases. Smart Agricultural Technology, Vol 7 (2024). https://doi.org/10.1016/j.atech.2024.100423 (Co-authored with Christian Elinisa)
