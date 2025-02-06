@@ -4,6 +4,10 @@ layout: page
 ---
 [Neema Mduma on ResearchGate](https://www.researchgate.net/profile/Neema_Mduma)
 
+* Image Segmentation Deep Learning Model for Early Detection of Banana Diseases. Applied Artificial Intelligence, 39(1). https://doi.org/10.1080/08839514.2024.2440837 (Co-authored with Christian Elinisa, Ciira Maina, Anthony Vodacek)
+
+* Deep Learning Models for the Early Detection of Maize Streak Virus and Maize Lethal Necrosis Diseases in Tanzania. Frontiers in Artificial Intelligence, Vol 7(2024). https://doi.org/10.3389/frai.2024.1384709 (Co-authored with Flavia Mayo, Ciira Maina and Mvurya Mgala)
+  
 * Common Beans Imagery Dataset for Early Detection of Bean Rust and Bean Anthracnose Diseases. Data in Brief, Vol 54(2024). https://doi.org/10.1016/j.dib.2024.110508 (Co-authored with Hudson Laizer, Dina Machuve and Reinfrid Maganga)
   
 * Updating “Machine Learning Imagery Dataset for Maize Crop: A case of Tanzania” with Expanded Data to Cover the New Farming Season. Data in Brief, Vol 54(2024). https://doi.org/10.1016/j.dib.2024.110359  (Co-authored with Flavia Mayo)
