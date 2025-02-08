@@ -33,12 +33,20 @@
     ]
   },
   "work": [
+    {
+      "company": "The Nelson Mandela African Institution of Science and Technology.",
+      "position": "Senior Lecturer",
+      "website": "https://www.nm-aist.ac.tz",
+      "startDate": "2024",
+      "endDate": "Up-to-date",
+      "summary": ""
+    },
      {
       "company": "The Nelson Mandela African Institution of Science and Technology.",
       "position": "Lecturer",
       "website": "https://www.nm-aist.ac.tz",
       "startDate": "2020",
-      "endDate": "Up-to-date",
+      "endDate": "2024",
       "summary": ""
     },
     
