@@ -21,4 +21,5 @@ The hackathon was organized through the joint efforts of Tanzania Communications
 
 I was especially glad to connect with the next generation of women in tech, sharing experiences and encouraging more participation in the field. Moments like these are a reminder of the potential that exists when young talent is given the space and support to grow.
 
+<img src="/assets/images/hackathon4.jpg" alt="">
 Grateful for the opportunity to be part of such an impactful initiative.
