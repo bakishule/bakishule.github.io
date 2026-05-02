@@ -2,8 +2,18 @@
 title: "Publications"
 layout: page
 ---
-[Neema Mduma on ResearchGate](https://www.researchgate.net/profile/Neema_Mduma)
+[Neema Mduma on Google Scholar](https://scholar.google.com/citations?user=CmIgEVAAAAAJ&hl=en)
 
+* CS2023 Curriculum Guidelines and the Impact on Computer Science Education in Africa. CompEd 2025: Proceedings of the ACM Global on Computing Education Conference 2025, (2025). https://doi.org/10.1145/3736181.3747123 (Co-authored with Michael J. Oudshoorn, Sherif G. Aly, Engineer Bainomugisha, Nahla A. Belal, Karen Bradshaw, Mohamed Essam Khedr, Patrick Kihoza, V. Lakshminarasimhan, Janet Liebenberg and Christian Servin)
+  
+* Enhancing Detection of Common Bean Diseases using Fast Gradient Sign Method-trained Vision Transformer. Frontier in Artificial Intelligence, Vol 8(2025). https://doi.org/10.3389/frai.2025.1643582 (Co-authored with Upendo Mwaibale, Hudson Laizer and Bonny Mgawe)
+
+* Irish Potato Imagery Dataset for Detection of Early and Late Blight Diseases. Data in Brief, Vol 60(2025). https://doi.org/10.1016/j.dib.2025.111549 (Co-authored with Hudson Laizer)
+  
+* Urban Health in Africa. Johns Hopkins University Press, 2025. https://doi.org/10.56021/9781421451152 (Co-authored with Dina Machuve)
+  
+* Banana Leaves Imagery Dataset. Scientific Data, 2025. https://doi.org/10.1038/s41597-025-04456-4 (Co-authored with Christian Elinisa)
+  
 * Image Segmentation Deep Learning Model for Early Detection of Banana Diseases. Applied Artificial Intelligence, 39(1). https://doi.org/10.1080/08839514.2024.2440837 (Co-authored with Christian Elinisa, Ciira Maina, Anthony Vodacek)
 
 * Deep Learning Models for the Early Detection of Maize Streak Virus and Maize Lethal Necrosis Diseases in Tanzania. Frontiers in Artificial Intelligence, Vol 7(2024). https://doi.org/10.3389/frai.2024.1384709 (Co-authored with Flavia Mayo, Ciira Maina and Mvurya Mgala)
