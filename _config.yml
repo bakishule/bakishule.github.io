@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: BakiShule
-email: mduman@nm-aist.ac.tz
+email: neema.mduma@nm-aist.ac.tz
 description: ""
 baseurl: ""  # the subpath of your site, e.g. /blog
 url: "https://bakishule.github.io"  # the base hostname & protocol for your site, e.g. http://example.com
