@@ -2,6 +2,13 @@
 title: "Projects"
 layout: page
 ---
+
+* **The International Institute of Tropical Agriculture (IITA) & The Alliance of Bioversity and CIAT  - 2026**
+   * Geo-AI and Citizen Science-powered Soybean Rust Disease Surveillance and Forecasting.
+     
+* **Grow Further - 2026**
+   * Scaling kilimoAI for Early Diagnosis of Maize and Common Bean Diseases in Northern Tanzania.
+     
 * **Grow Further - 2023**
    * Machine Learning Tools for Early Detection of Maize and Common Bean Diseases for Climate Change Adaptation in Tanzania.
      
